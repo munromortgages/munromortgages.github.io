@@ -1,4 +1,8 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Munro Mortgages'
 theme = 'hyde'
+
+[params]
+  description = "Mortgage Adviser"
+  themeColor = "theme-base-08"
